@@ -12,7 +12,7 @@ export const FlexComponent = styled.div`
   margin: 10px;
   padding: 20px;
   border-radius: 15px;
-  box-shadow10px 10px 5px 0px rgba(0,0,0,0.75)"
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 
 `;
 export const IconHolder = styled.div`
